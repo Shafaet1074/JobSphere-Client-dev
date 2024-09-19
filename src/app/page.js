@@ -1,12 +1,12 @@
+import Banner from "@/components/Banner";
 import Header from "@/components/Header";
 
 export default function Home() {
   return (
    <div>
-    <h1>Hello nextjs app</h1>
-    <div>
-      <Header/>
-    </div>
+      <div className="h-96">
+      <Banner/>
+      </div>
    </div>
   );
 }

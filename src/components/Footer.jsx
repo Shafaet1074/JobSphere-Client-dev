@@ -5,7 +5,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div className='bg-slate-50'>
+        <div className='bg-slate-50 pt-10'>
             {/* footer will appear here */}
             <footer className="text-center  p-2 w-1/2 mx-auto">
                 <aside>

@@ -23,6 +23,7 @@ const LoginPage = () => {
     const { email, password } = data;
     console.log(email, password);
   };
+  
   return (
     <div className="mx-2">
       <div
